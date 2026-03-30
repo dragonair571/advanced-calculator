@@ -1,4 +1,2 @@
 # hello-world
-This repository is for practicing the github flow
-
-I like books, reading, roblox, coding, and music. My favorite subjects in school are Humanities and Music.
+This is a repository with an advanced calculator(Easy to intermediate to hard functions, such as add, subtract, logarithm, square, cube, tangent, sine, cosine, etc.)
